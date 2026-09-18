@@ -1,4 +1,4 @@
-# C++ Sandbox — minimal Docker-based execution backend
+# C++ Sandbox — Docker-based execution backend
 
 A synchronous `POST /execute` API that compiles and runs untrusted C++20
 inside a fresh, hardened, network-isolated Docker container per request.
